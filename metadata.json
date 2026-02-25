@@ -1,0 +1,5 @@
+{
+  "name": "Web Content Parser",
+  "description": "A tool that parses URLs or raw code into a structured, readable text format using Gemini AI.",
+  "requestFramePermissions": []
+}
